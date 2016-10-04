@@ -8,9 +8,9 @@ You will need terraform 0.7.3 at least
 Clone the repo:
 
 ``` shell
-git clone git@github.com:jespada/terraform-ecs.git
+git clone git@github.com:jespada/terraform-vpc-ecs.git
 
-cd terraform-ecs/
+cd terraform-vpc-ecs/
 ```
 
 Create  `terraform.tfvars` file inside and create a symbolic link for each environment:
