@@ -1,5 +1,5 @@
 # terraform building blocks for AWS vpc, route53, rds and  ECS cluster/service with ALB
-# Some code was c&p from [terraform github examples](https://github.com/hashicorp/terraform/tree/master/examples)
+# Some code was c&p from [terraform github examples](https://github.com/hashicorp/terraform/tree/master/examples) and [best practices](https://github.com/hashicorp/best-practices/)
 # Also this assumes you using a CI to update task definition for deploys, hint: use [concourse.ci](https://concourse.ci/)
 
 You will need terraform 0.7.3 at least
